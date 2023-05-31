@@ -1,3 +1,5 @@
+//파스칼 삼각형의 높이를 입력받아 출력하는 코드 (단, 직각삼각형으로)
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h> 
 int main() {
