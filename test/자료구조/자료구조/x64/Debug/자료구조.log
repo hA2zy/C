@@ -1,0 +1,11 @@
+﻿  자료구조.c
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(681,16): warning C4047: '함수': 'stacks *'의 간접 참조 수준이 'stacks **'과(와) 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(681,13): warning C4024: 'init_stack': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(686,12): warning C4047: '함수': 'stacks *'의 간접 참조 수준이 'stacks **'과(와) 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(686,9): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(689,18): warning C4047: '함수': 'stacks *'의 간접 참조 수준이 'stacks **'과(와) 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(689,15): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(702,21): warning C4047: '함수': 'stacks *'의 간접 참조 수준이 'stacks **'과(와) 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(702,18): warning C4024: 'is_empty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\github\C\test\자료구조\자료구조\자료구조.c(680,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  자료구조.vcxproj -> C:\Users\user\Desktop\github\C\test\자료구조\x64\Debug\자료구조.exe
